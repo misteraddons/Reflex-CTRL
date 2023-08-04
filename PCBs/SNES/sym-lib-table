@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "sw_push_snes_btn")(type "KiCad")(uri "${KIPRJMOD}/modules/custom-kicad-footprints/symbols/sw_push_snes_btn.kicad_sym")(options "")(descr ""))
+  (lib (name "745C101104JP")(type "KiCad")(uri "${KIPRJMOD}/lib/CtS_74C101104JP.pretty/745C101104JP.kicad_sym")(options "")(descr ""))
+  (lib (name "Molex_Mini-Spox")(type "KiCad")(uri "${KIPRJMOD}/lib/Molex_Mini-Spox_5-pin.pretty/22-05-7055.kicad_sym")(options "")(descr ""))
+  (lib (name "Nintendo")(type "KiCad")(uri "${KIPRJMOD}/modules/custom-kicad-footprints/symbols/Nintendo.kicad_sym")(options "")(descr ""))
+)

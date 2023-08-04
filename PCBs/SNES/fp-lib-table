@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "CtS_74C101104JP")(type "KiCad")(uri "${KIPRJMOD}/lib/CtS_74C101104JP.pretty")(options "")(descr ""))
+  (lib (name "Molex_Mini-Spox_5-pin")(type "KiCad")(uri "${KIPRJMOD}/lib/Molex_Mini-Spox_5-pin.pretty")(options "")(descr ""))
+  (lib (name "MountingHoleRemix")(type "KiCad")(uri "${KIPRJMOD}/modules/custom-kicad-footprints/footprints/MountingHole.pretty")(options "")(descr ""))
+  (lib (name "Nintendo")(type "KiCad")(uri "${KIPRJMOD}/modules/custom-kicad-footprints/footprints/Nintendo.pretty")(options "")(descr ""))
+)
