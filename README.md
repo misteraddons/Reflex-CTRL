@@ -1,8 +1,12 @@
-# Reflex CTRL
+# General
 A series of drop in replacement circuit boards to convert console controllers directly to USB. Reflex CTRL uses [GP2040-CE](https://gp2040-ce.info/#/) firmware, and boasts an incredibly low 0.8ms latency.
 
-# Config, Modes and Shortcuts
+# Controllers
 ## SNES
+![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/snes-front.png "SNES Front")
+
+![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/snes-rear.png "SNES Rear")
+
 ### Config
 Update firmware = Select + Start + Up + Plug in USB
 
