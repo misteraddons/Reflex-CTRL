@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x02,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,146.818198,-120.796016,45.0,bottom
+SW1,Button_Pad,SW_SPST_Omron_B3FS-105xP,154.9,-108.8,90.0,top
+SW9,Button_Pad,BTN_Controller_5mm_0.3_0.3,154.9,-108.8,90.0,top
