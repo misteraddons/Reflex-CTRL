@@ -13,8 +13,8 @@ Update firmware = Select + Start + Up + Plug in USB
 Webconfig mode = Start + Plug in USB, then visit [192.168.7.1](192.168.7.1)
 
 ### Modes
-
-Nintendo Switch Mode = B + Plug in USB
+| Mode | Reflex CTRL Version | Button Combo |
+Nintendo Switch Mode | SNES | B + Plug in USB |
 
 Xinput = A + Plug in USB
 
