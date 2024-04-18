@@ -91,8 +91,8 @@ Update Firmware: Start + Plug in USB to enter `Web Config`. Navigate to 192.168.
 | --- | --- |
 | Nintendo Switch Mode | A + Plug in USB |
 | Xinput | B + Plug in USB |
-| PS5 | X + Plug in USB (Requires authentication dongle) |
-| DirectInput / PS3 | Y + Plug in USB |
+| DirectInput / PS3 | X + Plug in USB |
+| PS5 | Y + Plug in USB (Requires authentication dongle) |
 * PS4 mode requires additional steps. Enter `Web Config` mode, then go to `Settings` >  `Input Mode Settings` > `PS4` > `Authentication Mode Settings` for more info.
 * Xbox authentication requires an authentication dongle (TBD)
 
