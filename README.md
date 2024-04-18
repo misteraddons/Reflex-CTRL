@@ -6,8 +6,8 @@ A series of drop in replacement circuit boards to convert console controllers di
 ### Config
 Webconfig mode = Start + Plug in USB, then visit [192.168.7.1](192.168.7.1)
 
-![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/nes.png "CTRL NES")
 ### CTRL NES
+![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/nes.png "CTRL NES")
 Update firmware = Select + Start + Up + Plug in USB
 | Mode | Button Combo |
 | --- | --- |
@@ -21,8 +21,8 @@ Update firmware = Select + Start + Up + Plug in USB
 | Right analog stick mode | Select + Start + Right |
 | Home | Select + Start + Up |
 
-![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/snes.png "CTRL SNES")
 ### CTRL SNES
+![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/snes.png "CTRL SNES")
 Update firmware = Select + Start + Up + Plug in USB
 | Mode | Button Combo |
 | --- | --- |
@@ -42,8 +42,8 @@ Update firmware = Select + Start + Up + Plug in USB
 | Turbo rate increase | Left + Up + Select |
 | Turbo rate decrease | Left + Down + Select |
 
-![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/vb.png "CTRL Virtual Boy")
 ### CTRL Virtual Boy
+![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/vb.png "CTRL Virtual Boy")
 Update firmware = Select + Start + Up + Plug in USB
 | Mode | Button Combo |
 | --- | --- |
@@ -61,8 +61,8 @@ Update firmware = Select + Start + Up + Plug in USB
 | Right analog stick mode | Select + Start + Right |
 | Home | Select + Start + Up |
 
-![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/genesis6.png "CTRL Genesis 6")
 ### CTRL Genesis 6
+![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/genesis6.png "CTRL Genesis 6")
 Update firmware = Select + Start + Up + Plug in USB
 | Mode | Button Combo |
 | --- | --- |
@@ -79,8 +79,8 @@ Update firmware = Select + Start + Up + Plug in USB
 | Right analog stick mode | Mode + Start + Right |
 | Home | Mode + Start + Up |
 
-![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/saturn.png "CTRL Saturn")
 ### CTRL Saturn
+![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/saturn.png "CTRL Saturn")
 Update firmware = Start + Plug in USB to enter Web Config. Navigate to 192.168.7.1. Click `Reboot`, then `USB (BOOT SEL)`.
 | Mode | Button Combo |
 | --- | --- |
