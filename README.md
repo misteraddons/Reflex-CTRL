@@ -8,6 +8,7 @@ Webconfig mode = Start + Plug in USB, then visit [192.168.7.1](192.168.7.1)
 
 ### CTRL NES
 ![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/nes.png "CTRL NES")
+
 Update firmware = Select + Start + Up + Plug in USB
 | Mode | Button Combo |
 | --- | --- |
@@ -23,6 +24,7 @@ Update firmware = Select + Start + Up + Plug in USB
 
 ### CTRL SNES
 ![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/snes.png "CTRL SNES")
+
 Update firmware = Select + Start + Up + Plug in USB
 | Mode | Button Combo |
 | --- | --- |
@@ -44,6 +46,7 @@ Update firmware = Select + Start + Up + Plug in USB
 
 ### CTRL Virtual Boy
 ![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/vb.png "CTRL Virtual Boy")
+
 Update firmware = Select + Start + Up + Plug in USB
 | Mode | Button Combo |
 | --- | --- |
@@ -63,6 +66,7 @@ Update firmware = Select + Start + Up + Plug in USB
 
 ### CTRL Genesis 6
 ![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/genesis6.png "CTRL Genesis 6")
+
 Update firmware = Select + Start + Up + Plug in USB
 | Mode | Button Combo |
 | --- | --- |
@@ -81,15 +85,15 @@ Update firmware = Select + Start + Up + Plug in USB
 
 ### CTRL Saturn
 ![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/saturn.png "CTRL Saturn")
+
 Update firmware = Start + Plug in USB to enter Web Config. Navigate to 192.168.7.1. Click `Reboot`, then `USB (BOOT SEL)`.
 | Mode | Button Combo |
 | --- | --- |
 | Nintendo Switch Mode | A + Plug in USB |
 | Xinput | B + Plug in USB |
-| PS5 | X + Plug in USB* |
+| PS5 | X + Plug in USB (Requires authentication dongle) |
 | DirectInput / PS3 | Y + Plug in USB |
 * PS4 mode requires additional steps. Enter Webconfig mode, then go to the add-ons tab for more info.
-* PS5 mode requires an authentication dongle
 * Xbox authentication requires an authentication dongle (TBD)
 
 | Shortcut | Button Combo |
