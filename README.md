@@ -9,7 +9,7 @@ Webconfig mode = Start + Plug in USB, then visit [192.168.7.1](192.168.7.1)
 ### CTRL NES
 ![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/nes.png "CTRL NES")
 
-Update Firmeware: Select + Start + Up + Plug in USB
+Update Firmware: Select + Start + Up + Plug in USB
 | Mode | Button Combo |
 | --- | --- |
 | Nintendo Switch Mode | B + Plug in USB |
@@ -25,7 +25,7 @@ Update Firmeware: Select + Start + Up + Plug in USB
 ### CTRL SNES
 ![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/snes.png "CTRL SNES")
 
-Update Firmeware: Select + Start + Up + Plug in USB
+Update Firmware: Select + Start + Up + Plug in USB
 | Mode | Button Combo |
 | --- | --- |
 | Nintendo Switch Mode | B + Plug in USB |
@@ -47,7 +47,7 @@ Update Firmeware: Select + Start + Up + Plug in USB
 ### CTRL Virtual Boy
 ![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/vb.png "CTRL Virtual Boy")
 
-Update Firmeware: Select + Start + Up + Plug in USB
+Update Firmware: Select + Start + Up + Plug in USB
 | Mode | Button Combo |
 | --- | --- |
 | Nintendo Switch Mode | Right DPad Down + Plug in USB |
@@ -67,7 +67,7 @@ Update Firmeware: Select + Start + Up + Plug in USB
 ### CTRL Genesis 6
 ![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/genesis6.png "CTRL Genesis 6")
 
-Update Firmeware: Mode + Start + Up + Plug in USB
+Update Firmware: Mode + Start + Up + Plug in USB
 | Mode | Button Combo |
 | --- | --- |
 | Nintendo Switch Mode | A + Plug in USB |
@@ -86,7 +86,7 @@ Update Firmeware: Mode + Start + Up + Plug in USB
 ### CTRL Saturn
 ![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/saturn.png "CTRL Saturn")
 
-Update Firmeware: Start + Plug in USB to enter Web Config. Navigate to 192.168.7.1. Click `Reboot`, then `USB (BOOT SEL)`.
+Update Firmware: Start + Plug in USB to enter Web Config. Navigate to 192.168.7.1. Click `Reboot`, then `USB (BOOT SEL)`.
 | Mode | Button Combo |
 | --- | --- |
 | Nintendo Switch Mode | A + Plug in USB |
