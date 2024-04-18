@@ -4,7 +4,7 @@ A series of drop in replacement circuit boards to convert console controllers di
 ## Controllers
 
 ### Config
-Webconfig mode = Start + Plug in USB, then visit [192.168.7.1](192.168.7.1)
+`Web Config` mode = Start + Plug in USB, then visit [192.168.7.1](192.168.7.1)
 
 ### CTRL NES
 ![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/nes.png "CTRL NES")
@@ -32,7 +32,7 @@ Update Firmware: Select + Start + Up + Plug in USB
 | Xinput | A + Plug in USB |
 | DirectInput / PS3 | Y + Plug in USB |
 | PS4 | X + Plug in USB* |
-* PS4 mode requires additional steps. Enter Webconfig mode, then go to the add-ons tab for more info.
+* PS4 mode requires additional steps. Enter `Web Config` mode, then go to `Settings` >  `Input Mode Settings` > `PS4` > `Authentication Mode Settings`tab for more info.
 
 | Shortcut | Button Combo |
 | --- | --- |
@@ -55,7 +55,7 @@ Update Firmware: Select + Start + Up + Plug in USB
 | DirectInput / PS3 | Right DPad Left + Plug in USB |
 | PS4 | Right DPad Up + Plug in USB* |
 | Keyboard | R + Plug in USB* |
-* PS4 mode requires additional steps. Enter Webconfig mode, then go to the add-ons tab for more info.
+* PS4 mode requires additional steps. Enter `Web Config` mode, then go to `Settings` >  `Input Mode Settings` > `PS4` > `Authentication Mode Settings`tab for more info.
 
 | Shortcut | Button Combo |
 | --- | --- |
@@ -74,7 +74,7 @@ Update Firmware: Mode + Start + Up + Plug in USB
 | Xinput | B + Plug in USB |
 | DirectInput / PS3 | X + Plug in USB |
 | PS4 | Y + Plug in USB* |
-* PS4 mode requires additional steps. Enter Webconfig mode, then go to the add-ons tab for more info.
+* PS4 mode requires additional steps. Enter `Web Config` mode, then go to `Settings` >  `Input Mode Settings` > `PS4` > `Authentication Mode Settings`tab for more info.
 
 | Shortcut | Button Combo |
 | --- | --- |
@@ -86,14 +86,14 @@ Update Firmware: Mode + Start + Up + Plug in USB
 ### CTRL Saturn
 ![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/saturn.png "CTRL Saturn")
 
-Update Firmware: Start + Plug in USB to enter Web Config. Navigate to 192.168.7.1. Click `Reboot`, then `USB (BOOT SEL)`.
+Update Firmware: Start + Plug in USB to enter `Web Config`. Navigate to 192.168.7.1. Click `Reboot`, then `USB (BOOT SEL)`.
 | Mode | Button Combo |
 | --- | --- |
 | Nintendo Switch Mode | A + Plug in USB |
 | Xinput | B + Plug in USB |
 | PS5 | X + Plug in USB (Requires authentication dongle) |
 | DirectInput / PS3 | Y + Plug in USB |
-* PS4 mode requires additional steps. Enter Webconfig mode, then go to the add-ons tab for more info.
+* PS4 mode requires additional steps. Enter `Web Config` mode, then go to `Settings` >  `Input Mode Settings` > `PS4` > `Authentication Mode Settings`tab for more info.
 * Xbox authentication requires an authentication dongle (TBD)
 
 | Shortcut | Button Combo |
