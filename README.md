@@ -81,13 +81,13 @@ Update firmware = Select + Start + Up + Plug in USB
 
 ![alt text](https://github.com/misteraddons/Reflex-CTRL/blob/main/Images/saturn.png "CTRL Saturn")
 ### CTRL Saturn
-Update firmware = Select + Start + Up + Plug in USB
+Update firmware = Start + Plug in USB to enter Web Config. Navigate to 192.168.7.1. Click `Reboot`, then `USB (BOOT SEL)`.
 | Mode | Button Combo |
 | --- | --- |
 | Nintendo Switch Mode | A + Plug in USB |
 | Xinput | B + Plug in USB |
-| DirectInput / PS3 | X + Plug in USB |
-| PS4 | Y + Plug in USB* |
+| PS5 | X + Plug in USB* |
+| DirectInput / PS3 | Y + Plug in USB |
 * PS4 mode requires additional steps. Enter Webconfig mode, then go to the add-ons tab for more info.
 * PS5 mode requires an authentication dongle
 * Xbox authentication requires an authentication dongle (TBD)
